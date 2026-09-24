@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm shdw56strk
 
-<!--
-**shdw56strk/shdw56strk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Degree:** Computer Science and Data Science (CSD)  
+💻 **Field:** Computer Science & Data Science  
+🔧 **Interests:** Hardware, Drones & Technology
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying **Computer Science and Data Science (CSD)**
+- 💻 Interested in **Computer Science & Data Science**
+- 🔧 Passionate about **Hardware & Electronics**
+- 🚁 Interested in **Drones and Drone Technology**
+- 🛠️ Love learning and experimenting with technology
+
+## 🧰 Skills & Interests
+
+- 💻 Programming
+- 📊 Data Science
+- 🔧 Hardware & Electronics
+- 🚁 Drone Technology
+- 🧠 Problem Solving
+
+## 🎯 Goals
+
+To explore **Data Science, Hardware, Drones, and emerging technologies** 
+and build useful projects.
+
+---
+
+### 📫 Connect With Me
+
+**GitHub:** `shdw56strk`
+
+> ⚡ Learn • Build • Experiment • Repeat
+
